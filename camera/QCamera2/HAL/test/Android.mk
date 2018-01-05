@@ -60,3 +60,5 @@ LOCAL_CFLAGS += -DVANILLA_HAL
 endif
 
 endif
+
+#include $(BUILD_EXECUTABLE)
